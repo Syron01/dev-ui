@@ -1,54 +1,83 @@
-# 🌌 Skiper Open UI (OSS Edition)
+<div align="center">
 
-> **The Un-Common, Ultra-Fluid Animated UI Component Library** — 100% Free & Open Source Alternative to paid micro-interaction registries.
+  # ⚡ DEV UI
+  ### *UN-COMMON COMPONENTS FOR SHADCN/UI*
 
-Built with **Next.js 15+**, **React 19**, **Framer Motion**, and **Tailwind CSS**. Designed for the modern web with high-framerate spring physics, kinetic typography, dynamic islands, and interactive canvas components.
+  <p align="center">
+    <strong>106+ Outstanding animated components.</strong><br/>
+    No extra packages — just one file for each component. 100% Free & Open Source forever.
+  </p>
+
+  <p align="center">
+    <a href="#-features"><img src="https://img.shields.io/badge/Components-106%2B%20Ready-38bdf8?style=for-the-badge&logo=react" alt="Components" /></a>
+    <a href="#-tech-stack"><img src="https://img.shields.io/badge/Next.js-15%2B%20App%20Router-black?style=for-the-badge&logo=next.js" alt="Next.js" /></a>
+    <a href="#-tech-stack"><img src="https://img.shields.io/badge/Motion-Framer%20Springs-blue?style=for-the-badge&logo=framer" alt="Motion" /></a>
+    <a href="#-tech-stack"><img src="https://img.shields.io/badge/Tailwind-CSS%20v4-white?style=for-the-badge&logo=tailwindcss" alt="Tailwind CSS" /></a>
+    <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-purple?style=for-the-badge" alt="License" /></a>
+  </p>
+
+  <br />
+
+  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=80" width="100%" style="border-radius: 20px; border: 1px solid rgba(255,255,255,0.1);" alt="DEV UI Banner" />
+
+</div>
 
 ---
 
-## ⚡ What is Skiper Open UI?
+## ⚡ What is DEV UI?
 
-Many developers love the aesthetics of contemporary micro-interaction libraries (such as Skiper UI, Rauno Freiberg's work, and Linear-style interfaces), but dislike prohibitive paywalls and recurring subscriptions for single-file animation wrappers.
+**DEV UI** is an open-source, community-driven collection of un-common, highly kinetic micro-interactions and animated components designed for **React, Next.js, and shadcn/ui**.
 
-**Skiper Open UI** provides:
-- 🚀 **106 Cataloged Components** across 10 categories (Scroll Effects, Minimal Interactions, Crazy Hover, Out of the Box, Web3, Preloaders, Carousels, etc.).
-- 🎯 **Direct shadcn/ui Compatibility**: Single-file drop-ins that live in your project (`@/components/ui/...`).
-- 💎 **Lightweight Physics Engine**: Framer Motion springs tuned for realistic momentum, inertia, and tactile feedback.
-- ♿ **Accessible & TypeScript Native**: Full type safety with zero runtime bloat.
+- 🎯 **No Extra Packages**: Single-file components drop directly into `@/components/ui`.
+- 🕹️ **Live Hover Video Previews**: Hover any card in the catalog to preview fluid 60FPS animations.
+- 🏎️ **Pure Spring Kinetics**: Built with Framer Motion spring dampening, momentum, and tactile physics.
+- 💎 **100% Free**: No paywalls, no lifetime licenses, no locked registries.
 
 ---
 
-## 📦 Getting Started
+## 🚀 Quick Start
 
-### 1. Clone & Run Locally
+### 1. Run the Showcase Locally
 ```bash
-git clone https://github.com/your-username/skiper-open-ui.git
-cd skiper-open-ui
+git clone https://github.com/theayzek01/dev-ui.git
+cd dev-ui
 npm install
 npm run dev
 ```
-Open [http://localhost:3000](http://localhost:3000) to browse the interactive showcase and live component catalog.
+Open **[http://localhost:3000](http://localhost:3000)** to browse and interact with the complete 106+ component registry with live video previews.
 
-### 2. Using with shadcn/ui
-You can copy any component directly into your `@/components/ui` folder, or add components via CLI:
+### 2. Add Component to your Project
 ```bash
-npx shadcn add @open-skiper/image-cursor-trail
+npx shadcn add @dev-ui/dev40
 ```
 
 ---
 
-## 🛠️ Flagship Components Built-in
+## 📦 Collections Overview
 
-| ID | Name | Category | Description |
-|---|---|---|---|
-| `skiper18` | **Image Cursor Trail** | Crazy Hover | Magnetic trail following cursor with rotation tilt and spring physics. |
-| `skiper2` | **Dynamic Island** | Out of the box | Fluid layout switcher (compact, active call, music audio wave bars, fast charging). |
-| `skiper24` | **TikTik Color Reactive Archive** | Out of the box | Hover archive list that smoothly interpolates background colors with floating previews. |
-| `skiper27` | **Rolling Text & Kinetic Buttons** | Minimal interactions | Split-character roll effect on hover with zero layout shifts. |
-| `skiper5` | **Infinite Draggable Physics Canvas** | Out of the box | Throw and drag multi-card workspace with momentum constraints. |
-| `skiper16` | **Sticky Card Stacking Engine** | Scroll Effects | Progressive sticky stack with scale, blur, and depth layers. |
+| Collection | Count | Description |
+|---|:---:|---|
+| 🌊 **Scroll Effects** | 19 | Sticky stacks, parallax layers, 3D perspective scroll typography |
+| ⚡ **Minimal Interactions** | 23 | Kinetic rolling text, smooth caret inputs, squircle shapes, audio buttons |
+| 🎁 **Out of the box** | 11 | Dynamic islands, interactive color lists, things drag and scroll |
+| 🧲 **Crazy Hover** | 7 | Image cursor trails, member reveal cards, expand on hover |
+| 🚀 **Preloaders & Crazy Hero** | 10 | Nike preloader, staircase transitions, liquid ASCII simulations |
+| 🎠 **Creative Carousels** | 8 | 3D perspective sliders, card swipe carousels |
+| 🌐 **Web3 Unlocked** | 5 | Token swaps, currency dialogs, wallet cards |
+| 🤖 **AI Input & Media** | 8 | Generative AI input bars, modern video players |
 
 ---
 
-## 📜 License
-MIT License. Free for personal and commercial projects.
+## 🛠️ Tech Stack
+
+- **Next.js 15+** (App Router & Turbopack)
+- **Framer Motion** (Spring Physics & Layout Morphing)
+- **Tailwind CSS v4**
+- **Lucide Icons**
+- **TypeScript**
+
+---
+
+## 📄 License
+
+Distributed under the **MIT License**. Free for personal and commercial use.

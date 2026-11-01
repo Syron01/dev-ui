@@ -1,6 +1,6 @@
 [
   {
-    "id": "skiper1",
+    "id": "dev1",
     "name": "Anime js scrollbar",
     "desc": "Interactive scrollbar animation inspired by anime.js with smooth transitions and visual feedback",
     "tier": "paid",
@@ -15,10 +15,11 @@
       "interactive",
       "featured"
     ],
-    "video_url": "/video/v1/skiper1.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper1.mp4",
+    "original_id": "skiper1"
   },
   {
-    "id": "skiper2",
+    "id": "dev2",
     "name": "Dynamic island",
     "desc": "Interactive Dynamic Island with multiple app states and smooth transitions, inspired by iOS",
     "tier": "paid",
@@ -35,10 +36,11 @@
       "interactive",
       "featured"
     ],
-    "video_url": "/video/v1/skiper2.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper2.mp4",
+    "original_id": "skiper2"
   },
   {
-    "id": "skiper3",
+    "id": "dev3",
     "name": "Apple play button",
     "desc": "Elegant play button with Apple-inspired design and smooth hover animations",
     "tier": "free",
@@ -54,10 +56,11 @@
       "minimal",
       "animation"
     ],
-    "video_url": "/video/v1/skiper3.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper3.mp4",
+    "original_id": "skiper3"
   },
   {
-    "id": "skiper4",
+    "id": "dev4",
     "name": "Theme toggle buttons",
     "desc": "Interactive theme toggle buttons with smooth transitions and visual feedback",
     "tier": "free",
@@ -74,10 +77,11 @@
       "minimal",
       "featured"
     ],
-    "video_url": "/video/v1/skiper4.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper4.mp4",
+    "original_id": "skiper4"
   },
   {
-    "id": "skiper5",
+    "id": "dev5",
     "name": "Things drag and scroll",
     "desc": "Drag and scroll interface with smooth physics and momentum-based interactions",
     "tier": "paid",
@@ -93,10 +97,11 @@
       "interaction",
       "featured"
     ],
-    "video_url": "/video/v1/skiper5.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper5.mp4",
+    "original_id": "skiper5"
   },
   {
-    "id": "skiper6",
+    "id": "dev6",
     "name": "Hover members",
     "desc": "Team member showcase with creative hover effects and image reveals",
     "tier": "paid",
@@ -112,10 +117,11 @@
       "gallery",
       "reveal"
     ],
-    "video_url": "/video/v1/skiper6.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper6.mp4",
+    "original_id": "skiper6"
   },
   {
-    "id": "skiper7",
+    "id": "dev7",
     "name": "Nike preloader",
     "desc": "Brand preloader with Nike-inspired design and video background transitions",
     "tier": "paid",
@@ -131,10 +137,11 @@
       "video",
       "featured"
     ],
-    "video_url": "/video/v1/skiper7.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper7.mp4",
+    "original_id": "skiper7"
   },
   {
-    "id": "skiper8",
+    "id": "dev8",
     "name": "Words preloader",
     "desc": "Typography-based preloader with word animations and elegant transitions",
     "tier": "paid",
@@ -150,10 +157,11 @@
       "animation",
       "elegant"
     ],
-    "video_url": "/video/v1/skiper8.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper8.mp4",
+    "original_id": "skiper8"
   },
   {
-    "id": "skiper9",
+    "id": "dev9",
     "name": "Stairs preloader",
     "desc": "Staircase-style preloader with stepped animations and geometric patterns",
     "tier": "paid",
@@ -169,10 +177,11 @@
       "stepped",
       "pattern"
     ],
-    "video_url": "/video/v1/skiper9.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper9.mp4",
+    "original_id": "skiper9"
   },
   {
-    "id": "skiper10",
+    "id": "dev10",
     "name": "Double stairs preloader",
     "desc": "Advanced staircase preloader with dual-direction animations and complex timing",
     "tier": "paid",
@@ -188,10 +197,11 @@
       "complex",
       "timing"
     ],
-    "video_url": "/video/v1/skiper10.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper10.mp4",
+    "original_id": "skiper10"
   },
   {
-    "id": "skiper11",
+    "id": "dev11",
     "name": "Pixel preloader",
     "desc": "Pixel-style preloader with retro animations and granular reveal effects",
     "tier": "paid",
@@ -207,10 +217,11 @@
       "granular",
       "featured"
     ],
-    "video_url": "/video/v1/skiper11.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper11.mp4",
+    "original_id": "skiper11"
   },
   {
-    "id": "skiper12",
+    "id": "dev12",
     "name": "Vercel Liquid simulation",
     "desc": "Liquid animation hero section inspired by Vercel with fluid morphing effects",
     "tier": "paid",
@@ -227,10 +238,11 @@
       "fluid",
       "featured"
     ],
-    "video_url": "/video/v1/skiper12.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper12.mp4",
+    "original_id": "skiper12"
   },
   {
-    "id": "skiper13",
+    "id": "dev13",
     "name": "Nike menu",
     "desc": "Nike-inspired navigation menu with smooth animations and brand aesthetics",
     "tier": "paid",
@@ -246,10 +258,11 @@
       "brand",
       "featured"
     ],
-    "video_url": "/video/v1/skiper13.1.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper13.1.mp4",
+    "original_id": "skiper13"
   },
   {
-    "id": "skiper14",
+    "id": "dev14",
     "name": "Ascii Simulation",
     "desc": "ASCII art 3D hero section with terminal-style animations and retro aesthetics",
     "tier": "paid",
@@ -266,10 +279,11 @@
       "terminal",
       "retro"
     ],
-    "video_url": "/video/v1/skiper14.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper14.mp4",
+    "original_id": "skiper14"
   },
   {
-    "id": "skiper15",
+    "id": "dev15",
     "name": "Box loading preloader",
     "desc": "3D box loading animation with perspective transforms and smooth rotations",
     "tier": "paid",
@@ -285,10 +299,11 @@
       "loading",
       "rotation"
     ],
-    "video_url": "/video/v1/skiper15.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper15.mp4",
+    "original_id": "skiper15"
   },
   {
-    "id": "skiper16",
+    "id": "dev16",
     "name": "Card stack scroll",
     "desc": "Stacked cards with scroll-triggered reveal animations and depth effects",
     "tier": "free",
@@ -304,10 +319,11 @@
       "reveal",
       "depth"
     ],
-    "video_url": "/video/v1/skiper16.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper16.mp4",
+    "original_id": "skiper16"
   },
   {
-    "id": "skiper17",
+    "id": "dev17",
     "name": "Card stack with gsap and rotate",
     "desc": "GSAP-powered card stack with rotation effects and advanced scroll triggers",
     "tier": "free",
@@ -324,10 +340,11 @@
       "rotation",
       "featured"
     ],
-    "video_url": "/video/v1/skiper17.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper17.mp4",
+    "original_id": "skiper17"
   },
   {
-    "id": "skiper18",
+    "id": "dev18",
     "name": "Image cursor trail",
     "desc": "Magnetic cursor interaction with image trail effects and smooth following animations",
     "tier": "paid",
@@ -343,10 +360,11 @@
       "magnetic",
       "interaction"
     ],
-    "video_url": "/video/v1/skiper18.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper18.mp4",
+    "original_id": "skiper18"
   },
   {
-    "id": "skiper19",
+    "id": "dev19",
     "name": "Svg follow scroll",
     "desc": "SVG path animation that follows scroll progress with smooth drawing effects",
     "tier": "free",
@@ -362,10 +380,11 @@
       "drawing",
       "progress"
     ],
-    "video_url": "/video/v1/skiper19.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper19.mp4",
+    "original_id": "skiper19"
   },
   {
-    "id": "skiper20",
+    "id": "dev20",
     "name": "UniSwap Country Dialog",
     "desc": "Country selection dialog inspired by UniSwap with search and flag display",
     "tier": "paid",
@@ -386,14 +405,15 @@
       "country",
       "crypto"
     ],
-    "video_url": "/video/v1/skiper20.mp4",
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper20.mp4",
     "gridSpan": {
       "cols": 1,
       "rows": 2
-    }
+    },
+    "original_id": "skiper20"
   },
   {
-    "id": "skiper21",
+    "id": "dev21",
     "name": "Family wallet",
     "desc": "Family-style crypto wallet interface with member management and shared balances",
     "tier": "paid",
@@ -409,10 +429,11 @@
       "crypto",
       "featured"
     ],
-    "video_url": "/video/v1/skiper21.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper21.mp4",
+    "original_id": "skiper21"
   },
   {
-    "id": "skiper22",
+    "id": "dev22",
     "name": "Aave token swap",
     "desc": "Token swap interface inspired by Aave with price calculations and animations",
     "tier": "paid",
@@ -428,10 +449,11 @@
       "token",
       "defi"
     ],
-    "video_url": "/video/v1/skiper22.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper22.mp4",
+    "original_id": "skiper22"
   },
   {
-    "id": "skiper23",
+    "id": "dev23",
     "name": "Minimal Card Expand",
     "desc": "Expanding cards with smooth animations and interactive states",
     "tier": "paid",
@@ -447,10 +469,11 @@
       "modern",
       "interface"
     ],
-    "video_url": "/video/v1/skiper23.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper23.mp4",
+    "original_id": "skiper23"
   },
   {
-    "id": "skiper24",
+    "id": "dev24",
     "name": "Tik tik color list",
     "desc": "Color list interface with tick animations and smooth state transitions",
     "tier": "paid",
@@ -466,10 +489,11 @@
       "tick",
       "interface"
     ],
-    "video_url": "/video/v1/skiper24.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper24.mp4",
+    "original_id": "skiper24"
   },
   {
-    "id": "skiper25",
+    "id": "dev25",
     "name": "Music toggle btn",
     "desc": "Music player toggle button with vinyl-inspired animations and audio controls",
     "tier": "free",
@@ -485,10 +509,11 @@
       "minimal",
       "vinyl"
     ],
-    "video_url": "/video/v1/skiper25.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper25.mp4",
+    "original_id": "skiper25"
   },
   {
-    "id": "skiper26",
+    "id": "dev26",
     "name": "Theme toggle btn",
     "desc": "Minimal theme toggle button with smooth color transitions and mode switching",
     "tier": "free",
@@ -504,10 +529,11 @@
       "color",
       "mode"
     ],
-    "video_url": "/video/v1/skiper26.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper26.mp4",
+    "original_id": "skiper26"
   },
   {
-    "id": "skiper27",
+    "id": "dev27",
     "name": "Rolling text",
     "desc": "Text animation with rolling effect and smooth character transitions",
     "tier": "paid",
@@ -523,10 +549,11 @@
       "typography",
       "minimal"
     ],
-    "video_url": "/video/v1/skiper27.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper27.mp4",
+    "original_id": "skiper27"
   },
   {
-    "id": "skiper28",
+    "id": "dev28",
     "name": "3D perspective text",
     "desc": "3D text effects with scroll-based transformations and perspective changes",
     "tier": "free",
@@ -543,10 +570,11 @@
       "perspective",
       "transformation"
     ],
-    "video_url": "/video/v1/skiper28.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper28.mp4",
+    "original_id": "skiper28"
   },
   {
-    "id": "skiper29",
+    "id": "dev29",
     "name": "Siena parallax",
     "desc": "Parallax scrolling effect with layered content and smooth depth transitions",
     "tier": "paid",
@@ -562,10 +590,11 @@
       "layered",
       "featured"
     ],
-    "video_url": "/video/v1/skiper29.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper29.mp4",
+    "original_id": "skiper29"
   },
   {
-    "id": "skiper30",
+    "id": "dev30",
     "name": "Oliver parallax",
     "desc": "Multi-layer parallax effect with smooth depth-based scroll animations",
     "tier": "free",
@@ -581,10 +610,11 @@
       "depth",
       "featured"
     ],
-    "video_url": "/video/v1/skiper30.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper30.mp4",
+    "original_id": "skiper30"
   },
   {
-    "id": "skiper31",
+    "id": "dev31",
     "name": "Text Scroll animation",
     "desc": "Typography scroll animations with letter-by-letter reveals and timing effects",
     "tier": "free",
@@ -600,10 +630,11 @@
       "reveal",
       "timing"
     ],
-    "video_url": "/video/v1/skiper31.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper31.mp4",
+    "original_id": "skiper31"
   },
   {
-    "id": "skiper32",
+    "id": "dev32",
     "name": "Scroll images reveal 001",
     "desc": "Image reveal animation triggered by scroll position with mask effects",
     "tier": "paid",
@@ -619,10 +650,11 @@
       "mask",
       "trigger"
     ],
-    "video_url": "/video/v1/skiper32.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper32.mp4",
+    "original_id": "skiper32"
   },
   {
-    "id": "skiper33",
+    "id": "dev33",
     "name": "Scroll images reveal 002",
     "desc": "Alternative image reveal animation with different timing and easing effects",
     "tier": "paid",
@@ -638,10 +670,11 @@
       "alternative",
       "easing"
     ],
-    "video_url": "/video/v1/skiper33.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper33.mp4",
+    "original_id": "skiper33"
   },
   {
-    "id": "skiper34",
+    "id": "dev34",
     "name": "Scroll images reveal 003",
     "desc": "Combined scroll and rotation effects with synchronized transformations",
     "tier": "free",
@@ -657,10 +690,11 @@
       "synchronized",
       "effects"
     ],
-    "video_url": "/video/v1/skiper34.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper34.mp4",
+    "original_id": "skiper34"
   },
   {
-    "id": "skiper35",
+    "id": "dev35",
     "name": "Hover expand",
     "desc": "GSAP-powered hover expansion effect with smooth scaling and reveal animations",
     "tier": "paid",
@@ -677,10 +711,11 @@
       "scale",
       "featured"
     ],
-    "video_url": "/video/v1/skiper35.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper35.mp4",
+    "original_id": "skiper35"
   },
   {
-    "id": "skiper36",
+    "id": "dev36",
     "name": "Interactive3d Hero",
     "desc": "Interactive 3D hero section with mouse-controlled camera and dynamic lighting",
     "tier": "paid",
@@ -698,10 +733,11 @@
       "camera",
       "featured"
     ],
-    "video_url": "/video/v1/skiper36.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper36.mp4",
+    "original_id": "skiper36"
   },
   {
-    "id": "skiper37",
+    "id": "dev37",
     "name": "Animated number",
     "desc": "Number counter with smooth counting animations and easing effects",
     "tier": "free",
@@ -717,10 +753,11 @@
       "counting",
       "minimal"
     ],
-    "video_url": "/video/v1/skiper37.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper37.mp4",
+    "original_id": "skiper37"
   },
   {
-    "id": "skiper38",
+    "id": "dev38",
     "name": "Apple Navbar V001",
     "desc": "Apple-style navigation bar with glassmorphism effects and smooth transitions",
     "tier": "paid",
@@ -736,10 +773,11 @@
       "minimal",
       "featured"
     ],
-    "video_url": "/video/v1/skiper38.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper38.mp4",
+    "original_id": "skiper38"
   },
   {
-    "id": "skiper39",
+    "id": "dev39",
     "name": "Canvas crowd",
     "desc": "Canvas-based crowd simulation with particle systems and fluid dynamics",
     "tier": "free",
@@ -756,10 +794,11 @@
       "particles",
       "simulation"
     ],
-    "video_url": "/video/v1/skiper39.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper39.mp4",
+    "original_id": "skiper39"
   },
   {
-    "id": "skiper40",
+    "id": "dev40",
     "name": "CssLink",
     "desc": "Stylized link component with CSS-based animations and hover effects",
     "tier": "free",
@@ -775,10 +814,11 @@
       "minimal",
       "navigation"
     ],
-    "video_url": "/video/v1/skiper40.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper40.mp4",
+    "original_id": "skiper40"
   },
   {
-    "id": "skiper41",
+    "id": "dev41",
     "name": "Progressive Blur",
     "desc": "Progressive blur effect inspired by Rauno's design with smooth gradient transitions",
     "tier": "free",
@@ -794,10 +834,11 @@
       "gradient",
       "featured"
     ],
-    "video_url": "/video/v1/skiper41.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper41.mp4",
+    "original_id": "skiper41"
   },
   {
-    "id": "skiper42",
+    "id": "dev42",
     "name": "Animated icons 001",
     "desc": "Collection of animated icons with smooth transitions and interactive states",
     "tier": "paid",
@@ -814,10 +855,11 @@
       "minimal",
       "featured"
     ],
-    "video_url": "/video/v1/skiper42.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper42.mp4",
+    "original_id": "skiper42"
   },
   {
-    "id": "skiper43",
+    "id": "dev43",
     "name": "Vercel Tooltip",
     "desc": "Collection of animated icons inspired by Vercel's design system",
     "tier": "paid",
@@ -834,10 +876,11 @@
       "design-system",
       "featured"
     ],
-    "video_url": "/video/v1/skiper43.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper43.mp4",
+    "original_id": "skiper43"
   },
   {
-    "id": "skiper44",
+    "id": "dev44",
     "name": "Vercel scroll with blur",
     "desc": "Scroll-triggered blur effects with depth-of-field and focus transitions",
     "tier": "paid",
@@ -853,10 +896,11 @@
       "depth",
       "focus"
     ],
-    "video_url": "/video/v1/skiper44.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper44.mp4",
+    "original_id": "skiper44"
   },
   {
-    "id": "skiper45",
+    "id": "dev45",
     "name": "Family Receive button",
     "desc": "Crypto receive button component for family wallet with QR code generation",
     "tier": "paid",
@@ -872,10 +916,11 @@
       "qr",
       "crypto"
     ],
-    "video_url": "/video/v1/skiper45.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper45.mp4",
+    "original_id": "skiper45"
   },
   {
-    "id": "skiper46",
+    "id": "dev46",
     "name": "Nextjs gooey menu",
     "desc": "Gooey navigation menu with Next.js branding and fluid morphing effects",
     "tier": "paid",
@@ -891,10 +936,11 @@
       "navigation",
       "fluid"
     ],
-    "video_url": "/video/v1/skiper46.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper46.mp4",
+    "original_id": "skiper46"
   },
   {
-    "id": "skiper47",
+    "id": "dev47",
     "name": "Perspective carousel",
     "desc": "Coverflow-style carousel with 3D perspective and smooth transitions",
     "tier": "free",
@@ -911,10 +957,11 @@
       "3d",
       "perspective"
     ],
-    "video_url": "/video/v1/skiper47.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper47.mp4",
+    "original_id": "skiper47"
   },
   {
-    "id": "skiper48",
+    "id": "dev48",
     "name": "Card swipe carousel",
     "desc": "Card-based swiper with stacking effects and gesture controls",
     "tier": "free",
@@ -931,10 +978,11 @@
       "stacking",
       "gestures"
     ],
-    "video_url": "/video/v1/skiper48.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper48.mp4",
+    "original_id": "skiper48"
   },
   {
-    "id": "skiper49",
+    "id": "dev49",
     "name": "Inverted perspective carousel",
     "desc": "Inverted coverflow carousel with reversed perspective and unique animations",
     "tier": "free",
@@ -951,10 +999,11 @@
       "inverted",
       "perspective"
     ],
-    "video_url": "/video/v1/skiper49.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper49.mp4",
+    "original_id": "skiper49"
   },
   {
-    "id": "skiper50",
+    "id": "dev50",
     "name": "Creative carousel 001",
     "desc": "Single image swiper with focus effects and smooth navigation",
     "tier": "free",
@@ -971,10 +1020,11 @@
       "image",
       "focus"
     ],
-    "video_url": "/video/v1/skiper50.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper50.mp4",
+    "original_id": "skiper50"
   },
   {
-    "id": "skiper51",
+    "id": "dev51",
     "name": "Creative carousel 002",
     "desc": "Creative swiper implementation with unique transition effects and layouts",
     "tier": "free",
@@ -991,10 +1041,11 @@
       "transitions",
       "featured"
     ],
-    "video_url": "/video/v1/skiper51.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper51.mp4",
+    "original_id": "skiper51"
   },
   {
-    "id": "skiper52",
+    "id": "dev52",
     "name": "ExpandOnHover",
     "desc": "Horizontal expand on hover effect with smooth transitions and content reveal",
     "tier": "free",
@@ -1010,10 +1061,11 @@
       "reveal",
       "transition"
     ],
-    "video_url": "/video/v1/skiper52.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper52.mp4",
+    "original_id": "skiper52"
   },
   {
-    "id": "skiper53",
+    "id": "dev53",
     "name": "ExpandOnHover vertical",
     "desc": "Vertical expand on hover effect with smooth transitions and content reveal",
     "tier": "free",
@@ -1029,10 +1081,11 @@
       "reveal",
       "transition"
     ],
-    "video_url": "/video/v1/skiper53.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper53.mp4",
+    "original_id": "skiper53"
   },
   {
-    "id": "skiper54",
+    "id": "dev54",
     "name": "Shadcn clipPath Carousal",
     "desc": "Carousel with clipPath animations using Shadcn UI components",
     "tier": "free",
@@ -1052,10 +1105,11 @@
       "animation",
       "featured"
     ],
-    "video_url": "/video/v1/skiper54.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper54.mp4",
+    "original_id": "skiper54"
   },
   {
-    "id": "skiper55",
+    "id": "dev55",
     "name": "Parallax Image",
     "desc": "Parallax image with smooth animations and depth-of-field effects",
     "tier": "paid",
@@ -1071,10 +1125,11 @@
       "field",
       "featured"
     ],
-    "video_url": "/video/v1/skiper55.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper55.mp4",
+    "original_id": "skiper55"
   },
   {
-    "id": "skiper56",
+    "id": "dev56",
     "name": "Devouring details sign in",
     "desc": "Innovative sign-in form with progressive detail reveal and smooth animations",
     "tier": "paid",
@@ -1090,10 +1145,11 @@
       "progressive",
       "details"
     ],
-    "video_url": "/video/v1/skiper56.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper56.mp4",
+    "original_id": "skiper56"
   },
   {
-    "id": "skiper57",
+    "id": "dev57",
     "name": "Vercel navigation bar",
     "desc": "Vercel-style navigation bar with scroll animations, breadcrumbs, and smooth transitions",
     "tier": "paid",
@@ -1110,10 +1166,11 @@
       "scroll",
       "featured"
     ],
-    "video_url": "/video/v1/skiper57.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper57.mp4",
+    "original_id": "skiper57"
   },
   {
-    "id": "skiper58",
+    "id": "dev58",
     "name": "Text roll navigation",
     "desc": "Navigation menu with text roll hover effects and staggered character animations",
     "tier": "free",
@@ -1129,10 +1186,11 @@
       "hover",
       "staggered"
     ],
-    "video_url": "/video/v1/skiper58.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper58.mp4",
+    "original_id": "skiper58"
   },
   {
-    "id": "skiper59",
+    "id": "dev59",
     "name": "Drawing cursor effect",
     "desc": "Interactive drawing cursor effect with canvas-based line drawing and smooth animations",
     "tier": "paid",
@@ -1148,10 +1206,11 @@
       "interactive",
       "lines"
     ],
-    "video_url": "/video/v1/skiper59.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper59.mp4",
+    "original_id": "skiper59"
   },
   {
-    "id": "skiper60",
+    "id": "dev60",
     "name": "Side Scroll Navigation",
     "desc": "Side Scroll Navigation with scroll-triggered navigation and smooth transitions",
     "tier": "paid",
@@ -1164,10 +1223,11 @@
       "scroll",
       "navigation"
     ],
-    "video_url": "/video/v1/skiper60.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper60.mp4",
+    "original_id": "skiper60"
   },
   {
-    "id": "skiper61",
+    "id": "dev61",
     "name": "Mouse follow animations",
     "desc": "Interactive mouse follow animations with simple and spring-based tracking effects",
     "tier": "free",
@@ -1183,10 +1243,11 @@
       "spring",
       "interactive"
     ],
-    "video_url": "/video/v1/skiper61.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper61.mp4",
+    "original_id": "skiper61"
   },
   {
-    "id": "skiper62",
+    "id": "dev62",
     "name": "Loop animation hook",
     "desc": "Custom hook for creating looping animations with configurable timing and transitions",
     "tier": "free",
@@ -1202,10 +1263,11 @@
       "custom",
       "timing"
     ],
-    "video_url": "/video/v1/skiper62.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper62.mp4",
+    "original_id": "skiper62"
   },
   {
-    "id": "skiper63",
+    "id": "dev63",
     "name": "Apple squicircle effect",
     "desc": "Apple squicircle effect to any element with the filter property",
     "tier": "free",
@@ -1222,10 +1284,11 @@
       "draggable",
       "interactive"
     ],
-    "video_url": "/video/v1/skiper63.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper63.mp4",
+    "original_id": "skiper63"
   },
   {
-    "id": "skiper64",
+    "id": "dev64",
     "name": "Gooey Effect",
     "desc": "The famous Gooey liquid effect to apply on elemnts with single line of code",
     "tier": "free",
@@ -1241,10 +1304,11 @@
       "drag",
       "demo"
     ],
-    "video_url": "/video/v1/skiper64.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper64.mp4",
+    "original_id": "skiper64"
   },
   {
-    "id": "skiper65",
+    "id": "dev65",
     "name": "Breakpoint indicator",
     "desc": "Development tool showing current Tailwind CSS breakpoint for responsive design",
     "tier": "free",
@@ -1258,10 +1322,11 @@
       "development",
       "tool"
     ],
-    "video_url": "/video/v1/skiper65.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper65.mp4",
+    "original_id": "skiper65"
   },
   {
-    "id": "skiper66",
+    "id": "dev66",
     "name": "SVG clip path mask",
     "desc": "Complex SVG clip path mask with custom geometric shapes and image masking",
     "tier": "free",
@@ -1275,10 +1340,11 @@
       "geometric",
       "image"
     ],
-    "video_url": "/video/v1/skiper66.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper66.mp4",
+    "original_id": "skiper66"
   },
   {
-    "id": "skiper67",
+    "id": "dev67",
     "name": "Video player 001",
     "desc": "Interactive video player component with smooth hover animations, modal popup functionality, and custom media controls for enhanced user experience",
     "tier": "free",
@@ -1295,10 +1361,11 @@
       "width",
       "dynamic"
     ],
-    "video_url": "/video/v1/skiper67.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper67.mp4",
+    "original_id": "skiper67"
   },
   {
-    "id": "skiper68",
+    "id": "dev68",
     "name": "Animated number input",
     "desc": "Input field with animated digit transitions and smooth character reveals",
     "tier": "paid",
@@ -1314,10 +1381,11 @@
       "digits",
       "transitions"
     ],
-    "video_url": "/video/v1/skiper68.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper68.mp4",
+    "original_id": "skiper68"
   },
   {
-    "id": "skiper69",
+    "id": "dev69",
     "name": "Skiper Number flow",
     "desc": "Advanced number flow with formatting options and smooth digit transitions",
     "tier": "paid",
@@ -1334,10 +1402,11 @@
       "formatting",
       "transitions"
     ],
-    "video_url": "/video/v1/skiper69.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper69.mp4",
+    "original_id": "skiper69"
   },
   {
-    "id": "skiper70",
+    "id": "dev70",
     "name": "Text reveal box",
     "desc": "Text box with reveal animations and smooth transitions",
     "tier": "paid",
@@ -1353,10 +1422,11 @@
       "animation",
       "transitions"
     ],
-    "video_url": "/video/v1/skiper70.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper70.mp4",
+    "original_id": "skiper70"
   },
   {
-    "id": "skiper71",
+    "id": "dev71",
     "name": "Image reveal",
     "desc": "Image component with reveal animations and smooth transitions",
     "tier": "paid",
@@ -1371,10 +1441,11 @@
       "animation",
       "transitions"
     ],
-    "video_url": "/video/v1/skiper71.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper71.mp4",
+    "original_id": "skiper71"
   },
   {
-    "id": "skiper72",
+    "id": "dev72",
     "name": "Horizontal Text reveal ",
     "desc": "Horizontal text reveal with smooth transitions",
     "tier": "paid",
@@ -1389,10 +1460,11 @@
       "animation",
       "transitions"
     ],
-    "video_url": "/video/v1/skiper72.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper72.mp4",
+    "original_id": "skiper72"
   },
   {
-    "id": "skiper73",
+    "id": "dev73",
     "name": "Infinite canvas",
     "desc": "Infinite canvas with smooth transitions and content reveal",
     "tier": "paid",
@@ -1407,10 +1479,11 @@
       "animation",
       "transitions"
     ],
-    "video_url": "/video/v1/skiper73.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper73.mp4",
+    "original_id": "skiper73"
   },
   {
-    "id": "skiper74",
+    "id": "dev74",
     "name": "Timeline calendar",
     "desc": "Scroll to view the current timeline calendar with smooth transitions",
     "tier": "paid",
@@ -1424,10 +1497,11 @@
       "animation",
       "transitions"
     ],
-    "video_url": "/video/v1/skiper74.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper74.mp4",
+    "original_id": "skiper74"
   },
   {
-    "id": "skiper75",
+    "id": "dev75",
     "name": "Apple Navbar V002",
     "desc": "Apple-style navigation bar with glassmorphism effects and smooth transitions",
     "tier": "paid",
@@ -1443,10 +1517,11 @@
       "navbar",
       "transitions"
     ],
-    "video_url": "/video/v1/skiper75.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper75.mp4",
+    "original_id": "skiper75"
   },
   {
-    "id": "skiper76",
+    "id": "dev76",
     "name": "Apple Feature Block",
     "desc": "Apple-style feature block for latest iphone 17 pro with glassmorphism effects and smooth transitions",
     "tier": "paid",
@@ -1462,10 +1537,11 @@
       "glassmorphism",
       "block"
     ],
-    "video_url": "/video/v1/skiper76.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper76.mp4",
+    "original_id": "skiper76"
   },
   {
-    "id": "skiper77",
+    "id": "dev77",
     "name": "Apple carousel",
     "desc": "Apple-style carousel with glassmorphism effects and smooth transitions",
     "tier": "paid",
@@ -1481,10 +1557,11 @@
       "carousel",
       "transitions"
     ],
-    "video_url": "/video/v1/skiper77.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper77.mp4",
+    "original_id": "skiper77"
   },
   {
-    "id": "skiper78",
+    "id": "dev78",
     "name": "Dia Browser's Carousal",
     "desc": "Dia Browser's Carousal from their landing page with smooth transitions",
     "tier": "paid",
@@ -1502,10 +1579,11 @@
       "animation",
       "transitions"
     ],
-    "video_url": "/video/v1/skiper78.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper78.mp4",
+    "original_id": "skiper78"
   },
   {
-    "id": "skiper79",
+    "id": "dev79",
     "name": "Team showcase scroll",
     "desc": "Team showcase scroll effect with smooth transitions and content reveal",
     "tier": "paid",
@@ -1521,10 +1599,11 @@
       "effect",
       "transitions"
     ],
-    "video_url": "/video/v1/skiper79.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper79.mp4",
+    "original_id": "skiper79"
   },
   {
-    "id": "skiper80",
+    "id": "dev80",
     "name": "Projects Showcase",
     "desc": "Uncommon project showcase for you next portfolio project",
     "tier": "paid",
@@ -1539,10 +1618,11 @@
       "projects",
       "transitions"
     ],
-    "video_url": "/video/v1/skiper80.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper80.mp4",
+    "original_id": "skiper80"
   },
   {
-    "id": "skiper81",
+    "id": "dev81",
     "name": "AI Input 001",
     "desc": "Ai input component with shadcn ui production ready code and smooth transitions",
     "tier": "paid",
@@ -1557,10 +1637,11 @@
       "component",
       "GPT"
     ],
-    "video_url": "/video/v1/skiper81.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper81.mp4",
+    "original_id": "skiper81"
   },
   {
-    "id": "skiper82",
+    "id": "dev82",
     "name": "AI Input 002",
     "desc": "Ai input component with shadcn ui production ready code and smooth transitions",
     "tier": "paid",
@@ -1575,10 +1656,11 @@
       "component",
       "GPT"
     ],
-    "video_url": "/video/v1/skiper82.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper82.mp4",
+    "original_id": "skiper82"
   },
   {
-    "id": "skiper83",
+    "id": "dev83",
     "name": "AI Input 003",
     "desc": "Ai input component with shadcn ui production ready code and smooth transitions",
     "tier": "paid",
@@ -1593,10 +1675,11 @@
       "component",
       "GPT"
     ],
-    "video_url": "/video/v1/skiper83.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper83.mp4",
+    "original_id": "skiper83"
   },
   {
-    "id": "skiper84",
+    "id": "dev84",
     "name": "AI Input 004",
     "desc": "Ai input component with shadcn ui production ready code and smooth transitions",
     "tier": "paid",
@@ -1611,10 +1694,11 @@
       "component",
       "GPT"
     ],
-    "video_url": "/video/v1/skiper84.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper84.mp4",
+    "original_id": "skiper84"
   },
   {
-    "id": "skiper85",
+    "id": "dev85",
     "name": "AI Input 005",
     "desc": "Ai input component with shadcn ui production ready code and smooth transitions",
     "tier": "paid",
@@ -1629,10 +1713,11 @@
       "component",
       "GPT"
     ],
-    "video_url": "/video/v1/skiper85.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper85.mp4",
+    "original_id": "skiper85"
   },
   {
-    "id": "skiper86",
+    "id": "dev86",
     "name": "Apple Ai gradient",
     "desc": "Apple Intelligence gradient border with smooth transitions and content reveal",
     "tier": "paid",
@@ -1648,10 +1733,11 @@
       "border",
       "transitions"
     ],
-    "video_url": "/video/v1/skiper86.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper86.mp4",
+    "original_id": "skiper86"
   },
   {
-    "id": "skiper87",
+    "id": "dev87",
     "name": "Scroll with fade effect",
     "desc": "A top/bottom scrollable fade effects that creates smooth visual transitions at the top and bottom edges. and the best part it doest use any JS or funciton just simple pure css animation",
     "tier": "free",
@@ -1669,10 +1755,11 @@
       "effect",
       "transitions"
     ],
-    "video_url": "/video/v1/skiper87.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper87.mp4",
+    "original_id": "skiper87"
   },
   {
-    "id": "skiper88",
+    "id": "dev88",
     "name": "3D Rolling Text on scroll",
     "desc": "A text rolling text that rolls text in a circular 3d pattern based on scroll position, creating an immersive scrolling experience with perspective transforms",
     "tier": "paid",
@@ -1688,10 +1775,11 @@
       "perspective",
       "rotation"
     ],
-    "video_url": "/video/v1/skiper88.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper88.mp4",
+    "original_id": "skiper88"
   },
   {
-    "id": "skiper89",
+    "id": "dev89",
     "name": "Scroll progress 001",
     "desc": "A draggable circular scroll progress indicator that shows scroll percentage with a circular progress bar and animated number counter, positioned at the top of the page",
     "tier": "free",
@@ -1708,10 +1796,11 @@
       "counter",
       "draggable"
     ],
-    "video_url": "/video/v1/skiper89.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper89.mp4",
+    "original_id": "skiper89"
   },
   {
-    "id": "skiper90",
+    "id": "dev90",
     "name": "Gradient hover cards",
     "desc": "Beautiful gradient cards with mouse-following gradient effects that create a dynamic, colorful overlay on hover, perfect for showcasing content with visual appeal",
     "tier": "paid",
@@ -1727,10 +1816,11 @@
       "mouse",
       "interactive"
     ],
-    "video_url": "/video/v1/skiper90.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper90.mp4",
+    "original_id": "skiper90"
   },
   {
-    "id": "skiper91",
+    "id": "dev91",
     "name": "video player 002 ",
     "desc": "A fully customizable video player with smooth scrubbing  and a streachable slider, hover time display, and spring-based animations for play/pause controls and progress tracking",
     "tier": "paid",
@@ -1746,10 +1836,11 @@
       "scrubbing",
       "animation"
     ],
-    "video_url": "/video/v1/skiper91.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper91.mp4",
+    "original_id": "skiper91"
   },
   {
-    "id": "skiper92",
+    "id": "dev92",
     "name": "Vercel Command Search",
     "desc": "A Vercel like command Search with layout animations, keyboard shortcuts, and smooth transitions. Press F to open, Esc to close, with grouped commands and search functionality",
     "tier": "paid",
@@ -1768,10 +1859,11 @@
       "keyboard",
       "shortcuts"
     ],
-    "video_url": "/video/v1/skiper92.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper92.mp4",
+    "original_id": "skiper92"
   },
   {
-    "id": "skiper94",
+    "id": "dev94",
     "name": "Scroll progress 002",
     "desc": "A vertical scroll progress indicator with animated percentage display that follows scroll position, featuring smooth clip-path animations and visual feedback",
     "tier": "paid",
@@ -1787,10 +1879,11 @@
       "indicator",
       "vertical"
     ],
-    "video_url": "/video/v1/skiper94.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper94.mp4",
+    "original_id": "skiper94"
   },
   {
-    "id": "skiper95",
+    "id": "dev95",
     "name": "Scroll progress 003",
     "desc": "A Vertical scroll progress indicator with animated percentage display that follows scroll position, featuring smooth clip-path animations and visual feedback",
     "tier": "paid",
@@ -1806,10 +1899,11 @@
       "reveal",
       "sequential"
     ],
-    "video_url": "/video/v1/skiper95.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper95.mp4",
+    "original_id": "skiper95"
   },
   {
-    "id": "skiper96",
+    "id": "dev96",
     "name": "Expandable tabs navigation",
     "desc": "An expandable tabs component with smooth content transitions, direction-aware animations, and dynamic height adjustments. Icons expand to show labels on hover",
     "tier": "paid",
@@ -1828,10 +1922,11 @@
       "animation",
       "transitions"
     ],
-    "video_url": "/video/v1/skiper96.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper96.mp4",
+    "original_id": "skiper96"
   },
   {
-    "id": "skiper97",
+    "id": "dev97",
     "name": "video player 003",
     "desc": "A feature-rich video player with volume control, captions, picture-in-picture, fullscreen support, buffer visualization, and smooth hover interactions",
     "tier": "paid",
@@ -1850,10 +1945,11 @@
       "advanced",
       "features"
     ],
-    "video_url": "/video/v1/skiper97.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper97.mp4",
+    "original_id": "skiper97"
   },
   {
-    "id": "skiper98",
+    "id": "dev98",
     "name": "Vertical tooltip menu",
     "desc": "A vertical tooltip menu with smooth clip-path animations that reveal tooltips on hover, featuring spring-based positioning and elegant transitions",
     "tier": "paid",
@@ -1869,10 +1965,11 @@
       "clip-path",
       "animation"
     ],
-    "video_url": "/video/v1/skiper98.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper98.mp4",
+    "original_id": "skiper98"
   },
   {
-    "id": "skiper99",
+    "id": "dev99",
     "name": "Animated icons 002",
     "desc": "Collection of animated icons with smooth transitions and interactive states",
     "tier": "free",
@@ -1888,10 +1985,11 @@
       "animation",
       "minimal"
     ],
-    "video_url": "/video/v1/skiper99.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper99.mp4",
+    "original_id": "skiper99"
   },
   {
-    "id": "skiper100",
+    "id": "dev100",
     "name": "Draggable snap button",
     "desc": "A draggable floating button inspired by Vercel's design, with snap-to-boundary behavior, popover menu, and smooth spring animations. Drop in designated area to close",
     "tier": "paid",
@@ -1911,10 +2009,11 @@
       "vercel",
       "floating"
     ],
-    "video_url": "/video/v1/skiper100.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper100.mp4",
+    "original_id": "skiper100"
   },
   {
-    "id": "skiper101",
+    "id": "dev101",
     "name": "Custom tooltip",
     "desc": "A custom tooltip component built with Radix UI primitives, featuring smooth animations, arrow indicators, and flexible positioning options",
     "tier": "free",
@@ -1929,10 +2028,11 @@
       "custom",
       "animation"
     ],
-    "video_url": "/video/v1/skiper101.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper101.mp4",
+    "original_id": "skiper101"
   },
   {
-    "id": "skiper102",
+    "id": "dev102",
     "name": "Debug Pannel",
     "desc": "A simple debug component that accepts any object and prints it out on the screen, best to debug your code",
     "tier": "free",
@@ -1947,10 +2047,11 @@
       "animation",
       "positioning"
     ],
-    "video_url": "/video/v1/skiper102.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper102.mp4",
+    "original_id": "skiper102"
   },
   {
-    "id": "skiper103",
+    "id": "dev103",
     "name": "Bouncy accordion",
     "desc": "An accordion component with glassmorphism-styled icons and spring transitions, smooth expand/collapse animations, and gap between accordion items",
     "tier": "paid",
@@ -1966,10 +2067,11 @@
       "animation",
       "blur"
     ],
-    "video_url": "/video/v1/skiper103.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper103.mp4",
+    "original_id": "skiper103"
   },
   {
-    "id": "skiper104",
+    "id": "dev104",
     "name": "Scroll reveal grid cards",
     "desc": "A grid of cards that reveal content as you scroll, with smooth transitions and interactive elements, perfect for showcasing your projects or products on the landing page.",
     "tier": "paid",
@@ -1988,10 +2090,11 @@
       "panel",
       "interactive"
     ],
-    "video_url": "/video/v1/skiper104.mp4"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper104.mp4",
+    "original_id": "skiper104"
   },
   {
-    "id": "skiper105",
+    "id": "dev105",
     "name": "Auto Scale input",
     "desc": "An auto-scaling input for big number entry. Uses the responsive font approach seen in Uniswap and Wise so large amounts stay readable in crypto and finance apps.",
     "tier": "paid",
@@ -2008,11 +2111,12 @@
       "dollar",
       "dialkit"
     ],
-    "video_url": "/video/v1/skiper105.mp4",
-    "label": "new"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper105.mp4",
+    "label": "new",
+    "original_id": "skiper105"
   },
   {
-    "id": "skiper106",
+    "id": "dev106",
     "name": "Smooth caret input",
     "desc": "A text input with a custom animated caret that smoothly tracks cursor position using canvas text measurement and spring physics.",
     "tier": "free",
@@ -2030,11 +2134,12 @@
       "focus",
       "dialkit"
     ],
-    "video_url": "/video/v1/skiper106.mp4",
-    "label": "new"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper106.mp4",
+    "label": "new",
+    "original_id": "skiper106"
   },
   {
-    "id": "skiper107",
+    "id": "dev107",
     "name": "Knockout bracket",
     "desc": "A Google-style tournament knockout bracket that pages one round at a time. The leftmost round stacks compactly while later rounds center between their feeder matches, with cards, elbow connectors and headers animating to every new layout.",
     "tier": "paid",
@@ -2053,7 +2158,8 @@
       "animation",
       "paging"
     ],
-    "video_url": "/video/v1/skiper107.mp4",
-    "label": "new"
+    "video_url": "https://cdn.skiper-ui.com/video/v1/skiper107.mp4",
+    "label": "new",
+    "original_id": "skiper107"
   }
 ]

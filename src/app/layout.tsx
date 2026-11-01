@@ -2,9 +2,9 @@ import type { Metadata } from "next";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Skiper Open UI — Premium Micro-Interactions & Animated Components",
+  title: "DEV UI — Un-Common Components for ShadCN/UI",
   description:
-    "Open-source alternative to paid animation kits. 100+ fluid micro-interactions, spring physics, and shadcn/ui compatible components for Next.js and Tailwind CSS.",
+    "106+ Outstanding animated components. No extra packages — just one file for each component. Free & open source.",
 };
 
 export default function RootLayout({
@@ -13,8 +13,8 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="dark">
-      <body className="antialiased min-h-screen bg-[#09090b] text-[#fafafa]">
+    <html lang="en" className="dark scroll-smooth">
+      <body className="antialiased min-h-screen bg-black text-white selection:bg-white selection:text-black">
         {children}
       </body>
     </html>
