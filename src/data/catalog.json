@@ -1,0 +1,2059 @@
+[
+  {
+    "id": "skiper1",
+    "name": "Anime js scrollbar",
+    "desc": "Interactive scrollbar animation inspired by anime.js with smooth transitions and visual feedback",
+    "tier": "paid",
+    "collection_name": "Out of the box",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "animation",
+      "scrollbar",
+      "interactive",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper1.mp4"
+  },
+  {
+    "id": "skiper2",
+    "name": "Dynamic island",
+    "desc": "Interactive Dynamic Island with multiple app states and smooth transitions, inspired by iOS",
+    "tier": "paid",
+    "collection_name": "Out of the box",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion",
+      "lucide-react"
+    ],
+    "tags": [
+      "mobile",
+      "dynamic-island",
+      "ios",
+      "interactive",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper2.mp4"
+  },
+  {
+    "id": "skiper3",
+    "name": "Apple play button",
+    "desc": "Elegant play button with Apple-inspired design and smooth hover animations",
+    "tier": "free",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "button",
+      "play",
+      "apple",
+      "minimal",
+      "animation"
+    ],
+    "video_url": "/video/v1/skiper3.mp4"
+  },
+  {
+    "id": "skiper4",
+    "name": "Theme toggle buttons",
+    "desc": "Interactive theme toggle buttons with smooth transitions and visual feedback",
+    "tier": "free",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion",
+      "lucide-react"
+    ],
+    "tags": [
+      "toggle",
+      "theme",
+      "button",
+      "minimal",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper4.mp4"
+  },
+  {
+    "id": "skiper5",
+    "name": "Things drag and scroll",
+    "desc": "Drag and scroll interface with smooth physics and momentum-based interactions",
+    "tier": "paid",
+    "collection_name": "Out of the box",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "drag",
+      "scroll",
+      "physics",
+      "interaction",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper5.mp4"
+  },
+  {
+    "id": "skiper6",
+    "name": "Hover members",
+    "desc": "Team member showcase with creative hover effects and image reveals",
+    "tier": "paid",
+    "collection_name": "Crazy Hover",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "hover",
+      "team",
+      "members",
+      "gallery",
+      "reveal"
+    ],
+    "video_url": "/video/v1/skiper6.mp4"
+  },
+  {
+    "id": "skiper7",
+    "name": "Nike preloader",
+    "desc": "Brand preloader with Nike-inspired design and video background transitions",
+    "tier": "paid",
+    "collection_name": "preloaders",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "preloader",
+      "nike",
+      "brand",
+      "video",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper7.mp4"
+  },
+  {
+    "id": "skiper8",
+    "name": "Words preloader",
+    "desc": "Typography-based preloader with word animations and elegant transitions",
+    "tier": "paid",
+    "collection_name": "preloaders",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "preloader",
+      "words",
+      "typography",
+      "animation",
+      "elegant"
+    ],
+    "video_url": "/video/v1/skiper8.mp4"
+  },
+  {
+    "id": "skiper9",
+    "name": "Stairs preloader",
+    "desc": "Staircase-style preloader with stepped animations and geometric patterns",
+    "tier": "paid",
+    "collection_name": "preloaders",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "preloader",
+      "stairs",
+      "geometric",
+      "stepped",
+      "pattern"
+    ],
+    "video_url": "/video/v1/skiper9.mp4"
+  },
+  {
+    "id": "skiper10",
+    "name": "Double stairs preloader",
+    "desc": "Advanced staircase preloader with dual-direction animations and complex timing",
+    "tier": "paid",
+    "collection_name": "preloaders",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "preloader",
+      "stairs",
+      "double",
+      "complex",
+      "timing"
+    ],
+    "video_url": "/video/v1/skiper10.mp4"
+  },
+  {
+    "id": "skiper11",
+    "name": "Pixel preloader",
+    "desc": "Pixel-style preloader with retro animations and granular reveal effects",
+    "tier": "paid",
+    "collection_name": "preloaders",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "preloader",
+      "pixel",
+      "retro",
+      "granular",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper11.mp4"
+  },
+  {
+    "id": "skiper12",
+    "name": "Vercel Liquid simulation",
+    "desc": "Liquid animation hero section inspired by Vercel with fluid morphing effects",
+    "tier": "paid",
+    "collection_name": "Crazy Hero",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion",
+      "three.js"
+    ],
+    "tags": [
+      "hero",
+      "liquid",
+      "vercel",
+      "fluid",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper12.mp4"
+  },
+  {
+    "id": "skiper13",
+    "name": "Nike menu",
+    "desc": "Nike-inspired navigation menu with smooth animations and brand aesthetics",
+    "tier": "paid",
+    "collection_name": "OG NavBars",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "navigation",
+      "nike",
+      "menu",
+      "brand",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper13.1.mp4"
+  },
+  {
+    "id": "skiper14",
+    "name": "Ascii Simulation",
+    "desc": "ASCII art 3D hero section with terminal-style animations and retro aesthetics",
+    "tier": "paid",
+    "collection_name": "Crazy Hero",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion",
+      "three.js"
+    ],
+    "tags": [
+      "hero",
+      "ascii",
+      "3d",
+      "terminal",
+      "retro"
+    ],
+    "video_url": "/video/v1/skiper14.mp4"
+  },
+  {
+    "id": "skiper15",
+    "name": "Box loading preloader",
+    "desc": "3D box loading animation with perspective transforms and smooth rotations",
+    "tier": "paid",
+    "collection_name": "preloaders",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "preloader",
+      "box",
+      "3d",
+      "loading",
+      "rotation"
+    ],
+    "video_url": "/video/v1/skiper15.mp4"
+  },
+  {
+    "id": "skiper16",
+    "name": "Card stack scroll",
+    "desc": "Stacked cards with scroll-triggered reveal animations and depth effects",
+    "tier": "free",
+    "collection_name": "Scroll Effects",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "scroll",
+      "cards",
+      "stack",
+      "reveal",
+      "depth"
+    ],
+    "video_url": "/video/v1/skiper16.mp4"
+  },
+  {
+    "id": "skiper17",
+    "name": "Card stack with gsap and rotate",
+    "desc": "GSAP-powered card stack with rotation effects and advanced scroll triggers",
+    "tier": "free",
+    "collection_name": "Scroll Effects",
+    "theme": "light",
+    "dependencies": [
+      "gsap",
+      "framer-motion"
+    ],
+    "tags": [
+      "scroll",
+      "cards",
+      "gsap",
+      "rotation",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper17.mp4"
+  },
+  {
+    "id": "skiper18",
+    "name": "Image cursor trail",
+    "desc": "Magnetic cursor interaction with image trail effects and smooth following animations",
+    "tier": "paid",
+    "collection_name": "Crazy Hover",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "cursor",
+      "trail",
+      "images",
+      "magnetic",
+      "interaction"
+    ],
+    "video_url": "/video/v1/skiper18.mp4"
+  },
+  {
+    "id": "skiper19",
+    "name": "Svg follow scroll",
+    "desc": "SVG path animation that follows scroll progress with smooth drawing effects",
+    "tier": "free",
+    "collection_name": "Scroll Effects",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "scroll",
+      "svg",
+      "path",
+      "drawing",
+      "progress"
+    ],
+    "video_url": "/video/v1/skiper19.mp4"
+  },
+  {
+    "id": "skiper20",
+    "name": "UniSwap Country Dialog",
+    "desc": "Country selection dialog inspired by UniSwap with search and flag display",
+    "tier": "paid",
+    "collection_name": "Web3 Unlocked",
+    "theme": "dark",
+    "registryDependencies": [
+      "dialog"
+    ],
+    "dependencies": [
+      "framer-motion",
+      "@tanstack/react-query",
+      "lucide-react"
+    ],
+    "tags": [
+      "web3",
+      "uniswap",
+      "dialog",
+      "country",
+      "crypto"
+    ],
+    "video_url": "/video/v1/skiper20.mp4",
+    "gridSpan": {
+      "cols": 1,
+      "rows": 2
+    }
+  },
+  {
+    "id": "skiper21",
+    "name": "Family wallet",
+    "desc": "Family-style crypto wallet interface with member management and shared balances",
+    "tier": "paid",
+    "collection_name": "Web3 Unlocked",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "web3",
+      "wallet",
+      "family",
+      "crypto",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper21.mp4"
+  },
+  {
+    "id": "skiper22",
+    "name": "Aave token swap",
+    "desc": "Token swap interface inspired by Aave with price calculations and animations",
+    "tier": "paid",
+    "collection_name": "Web3 Unlocked",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "web3",
+      "aave",
+      "swap",
+      "token",
+      "defi"
+    ],
+    "video_url": "/video/v1/skiper22.mp4"
+  },
+  {
+    "id": "skiper23",
+    "name": "Minimal Card Expand",
+    "desc": "Expanding cards with smooth animations and interactive states",
+    "tier": "paid",
+    "collection_name": "Web3 Unlocked",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "web3",
+      "jakub",
+      "recreation",
+      "modern",
+      "interface"
+    ],
+    "video_url": "/video/v1/skiper23.mp4"
+  },
+  {
+    "id": "skiper24",
+    "name": "Tik tik color list",
+    "desc": "Color list interface with tick animations and smooth state transitions",
+    "tier": "paid",
+    "collection_name": "Out of the box",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "color",
+      "list",
+      "animation",
+      "tick",
+      "interface"
+    ],
+    "video_url": "/video/v1/skiper24.mp4"
+  },
+  {
+    "id": "skiper25",
+    "name": "Music toggle btn",
+    "desc": "Music player toggle button with vinyl-inspired animations and audio controls",
+    "tier": "free",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "music",
+      "toggle",
+      "audio",
+      "minimal",
+      "vinyl"
+    ],
+    "video_url": "/video/v1/skiper25.mp4"
+  },
+  {
+    "id": "skiper26",
+    "name": "Theme toggle btn",
+    "desc": "Minimal theme toggle button with smooth color transitions and mode switching",
+    "tier": "free",
+    "collection_name": "Minimal interactions",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "theme",
+      "toggle",
+      "minimal",
+      "color",
+      "mode"
+    ],
+    "video_url": "/video/v1/skiper26.mp4"
+  },
+  {
+    "id": "skiper27",
+    "name": "Rolling text",
+    "desc": "Text animation with rolling effect and smooth character transitions",
+    "tier": "paid",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "text",
+      "animation",
+      "rolling",
+      "typography",
+      "minimal"
+    ],
+    "video_url": "/video/v1/skiper27.mp4"
+  },
+  {
+    "id": "skiper28",
+    "name": "3D perspective text",
+    "desc": "3D text effects with scroll-based transformations and perspective changes",
+    "tier": "free",
+    "collection_name": "Scroll Effects",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion",
+      "three.js"
+    ],
+    "tags": [
+      "scroll",
+      "text",
+      "3d",
+      "perspective",
+      "transformation"
+    ],
+    "video_url": "/video/v1/skiper28.mp4"
+  },
+  {
+    "id": "skiper29",
+    "name": "Siena parallax",
+    "desc": "Parallax scrolling effect with layered content and smooth depth transitions",
+    "tier": "paid",
+    "collection_name": "Out of the box",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "parallax",
+      "scroll",
+      "depth",
+      "layered",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper29.mp4"
+  },
+  {
+    "id": "skiper30",
+    "name": "Oliver parallax",
+    "desc": "Multi-layer parallax effect with smooth depth-based scroll animations",
+    "tier": "free",
+    "collection_name": "Scroll Effects",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "scroll",
+      "parallax",
+      "layers",
+      "depth",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper30.mp4"
+  },
+  {
+    "id": "skiper31",
+    "name": "Text Scroll animation",
+    "desc": "Typography scroll animations with letter-by-letter reveals and timing effects",
+    "tier": "free",
+    "collection_name": "Scroll Effects",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "scroll",
+      "text",
+      "typography",
+      "reveal",
+      "timing"
+    ],
+    "video_url": "/video/v1/skiper31.mp4"
+  },
+  {
+    "id": "skiper32",
+    "name": "Scroll images reveal 001",
+    "desc": "Image reveal animation triggered by scroll position with mask effects",
+    "tier": "paid",
+    "collection_name": "Scroll Effects",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "scroll",
+      "images",
+      "reveal",
+      "mask",
+      "trigger"
+    ],
+    "video_url": "/video/v1/skiper32.mp4"
+  },
+  {
+    "id": "skiper33",
+    "name": "Scroll images reveal 002",
+    "desc": "Alternative image reveal animation with different timing and easing effects",
+    "tier": "paid",
+    "collection_name": "Scroll Effects",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "scroll",
+      "images",
+      "reveal",
+      "alternative",
+      "easing"
+    ],
+    "video_url": "/video/v1/skiper33.mp4"
+  },
+  {
+    "id": "skiper34",
+    "name": "Scroll images reveal 003",
+    "desc": "Combined scroll and rotation effects with synchronized transformations",
+    "tier": "free",
+    "collection_name": "Scroll Effects",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "scroll",
+      "rotation",
+      "transform",
+      "synchronized",
+      "effects"
+    ],
+    "video_url": "/video/v1/skiper34.mp4"
+  },
+  {
+    "id": "skiper35",
+    "name": "Hover expand",
+    "desc": "GSAP-powered hover expansion effect with smooth scaling and reveal animations",
+    "tier": "paid",
+    "collection_name": "Crazy Hover",
+    "theme": "dark",
+    "dependencies": [
+      "gsap",
+      "framer-motion"
+    ],
+    "tags": [
+      "hover",
+      "gsap",
+      "expand",
+      "scale",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper35.mp4"
+  },
+  {
+    "id": "skiper36",
+    "name": "Interactive3d Hero",
+    "desc": "Interactive 3D hero section with mouse-controlled camera and dynamic lighting",
+    "tier": "paid",
+    "collection_name": "Crazy Hero",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion",
+      "three.js",
+      "react-three-fiber"
+    ],
+    "tags": [
+      "hero",
+      "3d",
+      "interactive",
+      "camera",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper36.mp4"
+  },
+  {
+    "id": "skiper37",
+    "name": "Animated number",
+    "desc": "Number counter with smooth counting animations and easing effects",
+    "tier": "free",
+    "collection_name": "Minimal interactions",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "number",
+      "counter",
+      "animation",
+      "counting",
+      "minimal"
+    ],
+    "video_url": "/video/v1/skiper37.mp4"
+  },
+  {
+    "id": "skiper38",
+    "name": "Apple Navbar V001",
+    "desc": "Apple-style navigation bar with glassmorphism effects and smooth transitions",
+    "tier": "paid",
+    "collection_name": "OG NavBars",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "navigation",
+      "apple",
+      "glassmorphism",
+      "minimal",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper38.mp4"
+  },
+  {
+    "id": "skiper39",
+    "name": "Canvas crowd",
+    "desc": "Canvas-based crowd simulation with particle systems and fluid dynamics",
+    "tier": "free",
+    "collection_name": "Crazy Hero",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion",
+      "canvas"
+    ],
+    "tags": [
+      "hero",
+      "canvas",
+      "crowd",
+      "particles",
+      "simulation"
+    ],
+    "video_url": "/video/v1/skiper39.mp4"
+  },
+  {
+    "id": "skiper40",
+    "name": "CssLink",
+    "desc": "Stylized link component with CSS-based animations and hover effects",
+    "tier": "free",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "link",
+      "css",
+      "hover",
+      "minimal",
+      "navigation"
+    ],
+    "video_url": "/video/v1/skiper40.mp4"
+  },
+  {
+    "id": "skiper41",
+    "name": "Progressive Blur",
+    "desc": "Progressive blur effect inspired by Rauno's design with smooth gradient transitions",
+    "tier": "free",
+    "collection_name": "Rauno",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "rauno",
+      "blur",
+      "progressive",
+      "gradient",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper41.mp4"
+  },
+  {
+    "id": "skiper42",
+    "name": "Animated icons 001",
+    "desc": "Collection of animated icons with smooth transitions and interactive states",
+    "tier": "paid",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion",
+      "lucide-react"
+    ],
+    "tags": [
+      "icons",
+      "animation",
+      "interactive",
+      "minimal",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper42.mp4"
+  },
+  {
+    "id": "skiper43",
+    "name": "Vercel Tooltip",
+    "desc": "Collection of animated icons inspired by Vercel's design system",
+    "tier": "paid",
+    "collection_name": "Vercel Unlocked",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion",
+      "lucide-react"
+    ],
+    "tags": [
+      "vercel",
+      "icons",
+      "animated",
+      "design-system",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper43.mp4"
+  },
+  {
+    "id": "skiper44",
+    "name": "Vercel scroll with blur",
+    "desc": "Scroll-triggered blur effects with depth-of-field and focus transitions",
+    "tier": "paid",
+    "collection_name": "Rauno",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "rauno",
+      "scroll",
+      "blur",
+      "depth",
+      "focus"
+    ],
+    "video_url": "/video/v1/skiper44.mp4"
+  },
+  {
+    "id": "skiper45",
+    "name": "Family Receive button",
+    "desc": "Crypto receive button component for family wallet with QR code generation",
+    "tier": "paid",
+    "collection_name": "Web3 Unlocked",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "web3",
+      "family",
+      "receive",
+      "qr",
+      "crypto"
+    ],
+    "video_url": "/video/v1/skiper45.mp4"
+  },
+  {
+    "id": "skiper46",
+    "name": "Nextjs gooey menu",
+    "desc": "Gooey navigation menu with Next.js branding and fluid morphing effects",
+    "tier": "paid",
+    "collection_name": "Vercel Unlocked",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "nextjs",
+      "menu",
+      "gooey",
+      "navigation",
+      "fluid"
+    ],
+    "video_url": "/video/v1/skiper46.mp4"
+  },
+  {
+    "id": "skiper47",
+    "name": "Perspective carousel",
+    "desc": "Coverflow-style carousel with 3D perspective and smooth transitions",
+    "tier": "free",
+    "collection_name": "Carousals",
+    "theme": "light",
+    "dependencies": [
+      "swiper",
+      "framer-motion"
+    ],
+    "tags": [
+      "carousel",
+      "swiper",
+      "coverflow",
+      "3d",
+      "perspective"
+    ],
+    "video_url": "/video/v1/skiper47.mp4"
+  },
+  {
+    "id": "skiper48",
+    "name": "Card swipe carousel",
+    "desc": "Card-based swiper with stacking effects and gesture controls",
+    "tier": "free",
+    "collection_name": "Carousals",
+    "theme": "light",
+    "dependencies": [
+      "swiper",
+      "framer-motion"
+    ],
+    "tags": [
+      "carousel",
+      "swiper",
+      "cards",
+      "stacking",
+      "gestures"
+    ],
+    "video_url": "/video/v1/skiper48.mp4"
+  },
+  {
+    "id": "skiper49",
+    "name": "Inverted perspective carousel",
+    "desc": "Inverted coverflow carousel with reversed perspective and unique animations",
+    "tier": "free",
+    "collection_name": "Carousals",
+    "theme": "light",
+    "dependencies": [
+      "swiper",
+      "framer-motion"
+    ],
+    "tags": [
+      "carousel",
+      "swiper",
+      "coverflow",
+      "inverted",
+      "perspective"
+    ],
+    "video_url": "/video/v1/skiper49.mp4"
+  },
+  {
+    "id": "skiper50",
+    "name": "Creative carousel 001",
+    "desc": "Single image swiper with focus effects and smooth navigation",
+    "tier": "free",
+    "collection_name": "Carousals",
+    "theme": "light",
+    "dependencies": [
+      "swiper",
+      "framer-motion"
+    ],
+    "tags": [
+      "carousel",
+      "swiper",
+      "single",
+      "image",
+      "focus"
+    ],
+    "video_url": "/video/v1/skiper50.mp4"
+  },
+  {
+    "id": "skiper51",
+    "name": "Creative carousel 002",
+    "desc": "Creative swiper implementation with unique transition effects and layouts",
+    "tier": "free",
+    "collection_name": "Carousals",
+    "theme": "light",
+    "dependencies": [
+      "swiper",
+      "framer-motion"
+    ],
+    "tags": [
+      "carousel",
+      "swiper",
+      "creative",
+      "transitions",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper51.mp4"
+  },
+  {
+    "id": "skiper52",
+    "name": "ExpandOnHover",
+    "desc": "Horizontal expand on hover effect with smooth transitions and content reveal",
+    "tier": "free",
+    "collection_name": "Crazy Hover",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "hover",
+      "expand",
+      "horizontal",
+      "reveal",
+      "transition"
+    ],
+    "video_url": "/video/v1/skiper52.mp4"
+  },
+  {
+    "id": "skiper53",
+    "name": "ExpandOnHover vertical",
+    "desc": "Vertical expand on hover effect with smooth transitions and content reveal",
+    "tier": "free",
+    "collection_name": "Crazy Hover",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "hover",
+      "expand",
+      "vertical",
+      "reveal",
+      "transition"
+    ],
+    "video_url": "/video/v1/skiper53.mp4"
+  },
+  {
+    "id": "skiper54",
+    "name": "Shadcn clipPath Carousal",
+    "desc": "Carousel with clipPath animations using Shadcn UI components",
+    "tier": "free",
+    "collection_name": "Carousals",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion",
+      "@/components/ui"
+    ],
+    "registryDependencies": [
+      "carousel"
+    ],
+    "tags": [
+      "carousel",
+      "shadcn",
+      "clippath",
+      "animation",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper54.mp4"
+  },
+  {
+    "id": "skiper55",
+    "name": "Parallax Image",
+    "desc": "Parallax image with smooth animations and depth-of-field effects",
+    "tier": "paid",
+    "collection_name": "Scroll Effects",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "parallax",
+      "image",
+      "depth",
+      "field",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper55.mp4"
+  },
+  {
+    "id": "skiper56",
+    "name": "Devouring details sign in",
+    "desc": "Innovative sign-in form with progressive detail reveal and smooth animations",
+    "tier": "paid",
+    "collection_name": "Rauno",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "rauno",
+      "signin",
+      "form",
+      "progressive",
+      "details"
+    ],
+    "video_url": "/video/v1/skiper56.mp4"
+  },
+  {
+    "id": "skiper57",
+    "name": "Vercel navigation bar",
+    "desc": "Vercel-style navigation bar with scroll animations, breadcrumbs, and smooth transitions",
+    "tier": "paid",
+    "collection_name": "OG NavBars",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion",
+      "lucide-react"
+    ],
+    "tags": [
+      "navigation",
+      "vercel",
+      "breadcrumbs",
+      "scroll",
+      "featured"
+    ],
+    "video_url": "/video/v1/skiper57.mp4"
+  },
+  {
+    "id": "skiper58",
+    "name": "Text roll navigation",
+    "desc": "Navigation menu with text roll hover effects and staggered character animations",
+    "tier": "free",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "navigation",
+      "text",
+      "roll",
+      "hover",
+      "staggered"
+    ],
+    "video_url": "/video/v1/skiper58.mp4"
+  },
+  {
+    "id": "skiper59",
+    "name": "Drawing cursor effect",
+    "desc": "Interactive drawing cursor effect with canvas-based line drawing and smooth animations",
+    "tier": "paid",
+    "collection_name": "Crazy Hover",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "cursor",
+      "drawing",
+      "canvas",
+      "interactive",
+      "lines"
+    ],
+    "video_url": "/video/v1/skiper59.mp4"
+  },
+  {
+    "id": "skiper60",
+    "name": "Side Scroll Navigation",
+    "desc": "Side Scroll Navigation with scroll-triggered navigation and smooth transitions",
+    "tier": "paid",
+    "collection_name": "Scroll Effects",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "scroll",
+      "navigation"
+    ],
+    "video_url": "/video/v1/skiper60.mp4"
+  },
+  {
+    "id": "skiper61",
+    "name": "Mouse follow animations",
+    "desc": "Interactive mouse follow animations with simple and spring-based tracking effects",
+    "tier": "free",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "mouse",
+      "follow",
+      "animation",
+      "spring",
+      "interactive"
+    ],
+    "video_url": "/video/v1/skiper61.mp4"
+  },
+  {
+    "id": "skiper62",
+    "name": "Loop animation hook",
+    "desc": "Custom hook for creating looping animations with configurable timing and transitions",
+    "tier": "free",
+    "collection_name": "Development tools",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "hook",
+      "loop",
+      "animation",
+      "custom",
+      "timing"
+    ],
+    "video_url": "/video/v1/skiper62.mp4"
+  },
+  {
+    "id": "skiper63",
+    "name": "Apple squicircle effect",
+    "desc": "Apple squicircle effect to any element with the filter property",
+    "tier": "free",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion",
+      "lucide-react"
+    ],
+    "tags": [
+      "svg",
+      "filter",
+      "controls",
+      "draggable",
+      "interactive"
+    ],
+    "video_url": "/video/v1/skiper63.mp4"
+  },
+  {
+    "id": "skiper64",
+    "name": "Gooey Effect",
+    "desc": "The famous Gooey liquid effect to apply on elemnts with single line of code",
+    "tier": "free",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "gooey",
+      "filter",
+      "svg",
+      "drag",
+      "demo"
+    ],
+    "video_url": "/video/v1/skiper64.mp4"
+  },
+  {
+    "id": "skiper65",
+    "name": "Breakpoint indicator",
+    "desc": "Development tool showing current Tailwind CSS breakpoint for responsive design",
+    "tier": "free",
+    "collection_name": "Development tools",
+    "theme": "dark",
+    "dependencies": [],
+    "tags": [
+      "breakpoint",
+      "tailwind",
+      "responsive",
+      "development",
+      "tool"
+    ],
+    "video_url": "/video/v1/skiper65.mp4"
+  },
+  {
+    "id": "skiper66",
+    "name": "SVG clip path mask",
+    "desc": "Complex SVG clip path mask with custom geometric shapes and image masking",
+    "tier": "free",
+    "collection_name": "Minimal interactions",
+    "theme": "light",
+    "dependencies": [],
+    "tags": [
+      "svg",
+      "clip-path",
+      "mask",
+      "geometric",
+      "image"
+    ],
+    "video_url": "/video/v1/skiper66.mp4"
+  },
+  {
+    "id": "skiper67",
+    "name": "Video player 001",
+    "desc": "Interactive video player component with smooth hover animations, modal popup functionality, and custom media controls for enhanced user experience",
+    "tier": "free",
+    "collection_name": "Video Players",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion",
+      "media-chrome"
+    ],
+    "tags": [
+      "button",
+      "text",
+      "animation",
+      "width",
+      "dynamic"
+    ],
+    "video_url": "/video/v1/skiper67.mp4"
+  },
+  {
+    "id": "skiper68",
+    "name": "Animated number input",
+    "desc": "Input field with animated digit transitions and smooth character reveals",
+    "tier": "paid",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "input",
+      "number",
+      "animation",
+      "digits",
+      "transitions"
+    ],
+    "video_url": "/video/v1/skiper68.mp4"
+  },
+  {
+    "id": "skiper69",
+    "name": "Skiper Number flow",
+    "desc": "Advanced number flow with formatting options and smooth digit transitions",
+    "tier": "paid",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion",
+      "react-use-measure",
+      "lucide-react"
+    ],
+    "tags": [
+      "number",
+      "animation",
+      "formatting",
+      "transitions"
+    ],
+    "video_url": "/video/v1/skiper69.mp4"
+  },
+  {
+    "id": "skiper70",
+    "name": "Text reveal box",
+    "desc": "Text box with reveal animations and smooth transitions",
+    "tier": "paid",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "text",
+      "box",
+      "reveal",
+      "animation",
+      "transitions"
+    ],
+    "video_url": "/video/v1/skiper70.mp4"
+  },
+  {
+    "id": "skiper71",
+    "name": "Image reveal",
+    "desc": "Image component with reveal animations and smooth transitions",
+    "tier": "paid",
+    "collection_name": "Scroll Effects",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "image",
+      "reveal",
+      "animation",
+      "transitions"
+    ],
+    "video_url": "/video/v1/skiper71.mp4"
+  },
+  {
+    "id": "skiper72",
+    "name": "Horizontal Text reveal ",
+    "desc": "Horizontal text reveal with smooth transitions",
+    "tier": "paid",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "text",
+      "reveal",
+      "animation",
+      "transitions"
+    ],
+    "video_url": "/video/v1/skiper72.mp4"
+  },
+  {
+    "id": "skiper73",
+    "name": "Infinite canvas",
+    "desc": "Infinite canvas with smooth transitions and content reveal",
+    "tier": "paid",
+    "collection_name": "Out of the box",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "canvas",
+      "infinite",
+      "animation",
+      "transitions"
+    ],
+    "video_url": "/video/v1/skiper73.mp4"
+  },
+  {
+    "id": "skiper74",
+    "name": "Timeline calendar",
+    "desc": "Scroll to view the current timeline calendar with smooth transitions",
+    "tier": "paid",
+    "collection_name": "Scroll Effects",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "timeline",
+      "animation",
+      "transitions"
+    ],
+    "video_url": "/video/v1/skiper74.mp4"
+  },
+  {
+    "id": "skiper75",
+    "name": "Apple Navbar V002",
+    "desc": "Apple-style navigation bar with glassmorphism effects and smooth transitions",
+    "tier": "paid",
+    "collection_name": "OG NavBars",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "navigation",
+      "apple",
+      "glassmorphism",
+      "navbar",
+      "transitions"
+    ],
+    "video_url": "/video/v1/skiper75.mp4"
+  },
+  {
+    "id": "skiper76",
+    "name": "Apple Feature Block",
+    "desc": "Apple-style feature block for latest iphone 17 pro with glassmorphism effects and smooth transitions",
+    "tier": "paid",
+    "collection_name": "Out of the box",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "feature",
+      "block",
+      "apple",
+      "glassmorphism",
+      "block"
+    ],
+    "video_url": "/video/v1/skiper76.mp4"
+  },
+  {
+    "id": "skiper77",
+    "name": "Apple carousel",
+    "desc": "Apple-style carousel with glassmorphism effects and smooth transitions",
+    "tier": "paid",
+    "collection_name": "Carousals",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "carousel",
+      "apple",
+      "glassmorphism",
+      "carousel",
+      "transitions"
+    ],
+    "video_url": "/video/v1/skiper77.mp4"
+  },
+  {
+    "id": "skiper78",
+    "name": "Dia Browser's Carousal",
+    "desc": "Dia Browser's Carousal from their landing page with smooth transitions",
+    "tier": "paid",
+    "collection_name": "Carousals",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "carousel",
+      "carousal",
+      "dia",
+      "browser",
+      "timeline",
+      "animation",
+      "transitions"
+    ],
+    "video_url": "/video/v1/skiper78.mp4"
+  },
+  {
+    "id": "skiper79",
+    "name": "Team showcase scroll",
+    "desc": "Team showcase scroll effect with smooth transitions and content reveal",
+    "tier": "paid",
+    "collection_name": "Scroll Effects",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "team",
+      "showcase",
+      "scroll",
+      "effect",
+      "transitions"
+    ],
+    "video_url": "/video/v1/skiper79.mp4"
+  },
+  {
+    "id": "skiper80",
+    "name": "Projects Showcase",
+    "desc": "Uncommon project showcase for you next portfolio project",
+    "tier": "paid",
+    "collection_name": "Out of the box",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "landing",
+      "layout",
+      "projects",
+      "transitions"
+    ],
+    "video_url": "/video/v1/skiper80.mp4"
+  },
+  {
+    "id": "skiper81",
+    "name": "AI Input 001",
+    "desc": "Ai input component with shadcn ui production ready code and smooth transitions",
+    "tier": "paid",
+    "collection_name": "Ai Input",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "ai",
+      "input",
+      "component",
+      "GPT"
+    ],
+    "video_url": "/video/v1/skiper81.mp4"
+  },
+  {
+    "id": "skiper82",
+    "name": "AI Input 002",
+    "desc": "Ai input component with shadcn ui production ready code and smooth transitions",
+    "tier": "paid",
+    "collection_name": "Ai Input",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "ai",
+      "input",
+      "component",
+      "GPT"
+    ],
+    "video_url": "/video/v1/skiper82.mp4"
+  },
+  {
+    "id": "skiper83",
+    "name": "AI Input 003",
+    "desc": "Ai input component with shadcn ui production ready code and smooth transitions",
+    "tier": "paid",
+    "collection_name": "Ai Input",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "ai",
+      "input",
+      "component",
+      "GPT"
+    ],
+    "video_url": "/video/v1/skiper83.mp4"
+  },
+  {
+    "id": "skiper84",
+    "name": "AI Input 004",
+    "desc": "Ai input component with shadcn ui production ready code and smooth transitions",
+    "tier": "paid",
+    "collection_name": "Ai Input",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "ai",
+      "input",
+      "component",
+      "GPT"
+    ],
+    "video_url": "/video/v1/skiper84.mp4"
+  },
+  {
+    "id": "skiper85",
+    "name": "AI Input 005",
+    "desc": "Ai input component with shadcn ui production ready code and smooth transitions",
+    "tier": "paid",
+    "collection_name": "Ai Input",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "ai",
+      "input",
+      "component",
+      "GPT"
+    ],
+    "video_url": "/video/v1/skiper85.mp4"
+  },
+  {
+    "id": "skiper86",
+    "name": "Apple Ai gradient",
+    "desc": "Apple Intelligence gradient border with smooth transitions and content reveal",
+    "tier": "paid",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "apple intelligence",
+      "ai",
+      "gradient",
+      "border",
+      "transitions"
+    ],
+    "video_url": "/video/v1/skiper86.mp4"
+  },
+  {
+    "id": "skiper87",
+    "name": "Scroll with fade effect",
+    "desc": "A top/bottom scrollable fade effects that creates smooth visual transitions at the top and bottom edges. and the best part it doest use any JS or funciton just simple pure css animation",
+    "tier": "free",
+    "registryDependencies": [
+      "scroll-area"
+    ],
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "scroll",
+      "fade",
+      "effect",
+      "transitions"
+    ],
+    "video_url": "/video/v1/skiper87.mp4"
+  },
+  {
+    "id": "skiper88",
+    "name": "3D Rolling Text on scroll",
+    "desc": "A text rolling text that rolls text in a circular 3d pattern based on scroll position, creating an immersive scrolling experience with perspective transforms",
+    "tier": "paid",
+    "collection_name": "Scroll Effects",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "3d",
+      "rolling-text",
+      "scroll",
+      "perspective",
+      "rotation"
+    ],
+    "video_url": "/video/v1/skiper88.mp4"
+  },
+  {
+    "id": "skiper89",
+    "name": "Scroll progress 001",
+    "desc": "A draggable circular scroll progress indicator that shows scroll percentage with a circular progress bar and animated number counter, positioned at the top of the page",
+    "tier": "free",
+    "collection_name": "Scroll Effects",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion",
+      "@number-flow/react"
+    ],
+    "tags": [
+      "scroll",
+      "progress",
+      "indicator",
+      "counter",
+      "draggable"
+    ],
+    "video_url": "/video/v1/skiper89.mp4"
+  },
+  {
+    "id": "skiper90",
+    "name": "Gradient hover cards",
+    "desc": "Beautiful gradient cards with mouse-following gradient effects that create a dynamic, colorful overlay on hover, perfect for showcasing content with visual appeal",
+    "tier": "paid",
+    "collection_name": "Crazy Hover",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "cards",
+      "gradient",
+      "hover",
+      "mouse",
+      "interactive"
+    ],
+    "video_url": "/video/v1/skiper90.mp4"
+  },
+  {
+    "id": "skiper91",
+    "name": "video player 002 ",
+    "desc": "A fully customizable video player with smooth scrubbing  and a streachable slider, hover time display, and spring-based animations for play/pause controls and progress tracking",
+    "tier": "paid",
+    "collection_name": "Video Players",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "video",
+      "player",
+      "controls",
+      "scrubbing",
+      "animation"
+    ],
+    "video_url": "/video/v1/skiper91.mp4"
+  },
+  {
+    "id": "skiper92",
+    "name": "Vercel Command Search",
+    "desc": "A Vercel like command Search with layout animations, keyboard shortcuts, and smooth transitions. Press F to open, Esc to close, with grouped commands and search functionality",
+    "tier": "paid",
+    "collection_name": "Vercel Unlocked",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "registryDependencies": [
+      "command"
+    ],
+    "tags": [
+      "command",
+      "palette",
+      "search",
+      "keyboard",
+      "shortcuts"
+    ],
+    "video_url": "/video/v1/skiper92.mp4"
+  },
+  {
+    "id": "skiper94",
+    "name": "Scroll progress 002",
+    "desc": "A vertical scroll progress indicator with animated percentage display that follows scroll position, featuring smooth clip-path animations and visual feedback",
+    "tier": "paid",
+    "collection_name": "Scroll Effects",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "scroll",
+      "progress",
+      "bar",
+      "indicator",
+      "vertical"
+    ],
+    "video_url": "/video/v1/skiper94.mp4"
+  },
+  {
+    "id": "skiper95",
+    "name": "Scroll progress 003",
+    "desc": "A Vertical scroll progress indicator with animated percentage display that follows scroll position, featuring smooth clip-path animations and visual feedback",
+    "tier": "paid",
+    "collection_name": "Scroll Effects",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "scroll",
+      "trigger",
+      "animation",
+      "reveal",
+      "sequential"
+    ],
+    "video_url": "/video/v1/skiper95.mp4"
+  },
+  {
+    "id": "skiper96",
+    "name": "Expandable tabs navigation",
+    "desc": "An expandable tabs component with smooth content transitions, direction-aware animations, and dynamic height adjustments. Icons expand to show labels on hover",
+    "tier": "paid",
+    "collection_name": "Out of the box",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "registryDependencies": [
+      "switch"
+    ],
+    "tags": [
+      "tabs",
+      "navigation",
+      "expandable",
+      "animation",
+      "transitions"
+    ],
+    "video_url": "/video/v1/skiper96.mp4"
+  },
+  {
+    "id": "skiper97",
+    "name": "video player 003",
+    "desc": "A feature-rich video player with volume control, captions, picture-in-picture, fullscreen support, buffer visualization, and smooth hover interactions",
+    "tier": "paid",
+    "collection_name": "Video Players",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "registryDependencies": [
+      "slider"
+    ],
+    "tags": [
+      "video",
+      "player",
+      "controls",
+      "advanced",
+      "features"
+    ],
+    "video_url": "/video/v1/skiper97.mp4"
+  },
+  {
+    "id": "skiper98",
+    "name": "Vertical tooltip menu",
+    "desc": "A vertical tooltip menu with smooth clip-path animations that reveal tooltips on hover, featuring spring-based positioning and elegant transitions",
+    "tier": "paid",
+    "collection_name": "Vercel Unlocked",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "tooltip",
+      "menu",
+      "vertical",
+      "clip-path",
+      "animation"
+    ],
+    "video_url": "/video/v1/skiper98.mp4"
+  },
+  {
+    "id": "skiper99",
+    "name": "Animated icons 002",
+    "desc": "Collection of animated icons with smooth transitions and interactive states",
+    "tier": "free",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "arrow",
+      "icon",
+      "hover",
+      "animation",
+      "minimal"
+    ],
+    "video_url": "/video/v1/skiper99.mp4"
+  },
+  {
+    "id": "skiper100",
+    "name": "Draggable snap button",
+    "desc": "A draggable floating button inspired by Vercel's design, with snap-to-boundary behavior, popover menu, and smooth spring animations. Drop in designated area to close",
+    "tier": "paid",
+    "collection_name": "Vercel Unlocked",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "registryDependencies": [
+      "popover",
+      "tooltip"
+    ],
+    "tags": [
+      "draggable",
+      "button",
+      "snap",
+      "vercel",
+      "floating"
+    ],
+    "video_url": "/video/v1/skiper100.mp4"
+  },
+  {
+    "id": "skiper101",
+    "name": "Custom tooltip",
+    "desc": "A custom tooltip component built with Radix UI primitives, featuring smooth animations, arrow indicators, and flexible positioning options",
+    "tier": "free",
+    "collection_name": "Out of the box",
+    "theme": "dark",
+    "dependencies": [
+      "@radix-ui/react-tooltip"
+    ],
+    "tags": [
+      "tooltip",
+      "radix",
+      "custom",
+      "animation"
+    ],
+    "video_url": "/video/v1/skiper101.mp4"
+  },
+  {
+    "id": "skiper102",
+    "name": "Debug Pannel",
+    "desc": "A simple debug component that accepts any object and prints it out on the screen, best to debug your code",
+    "tier": "free",
+    "collection_name": "Development tools",
+    "theme": "dark",
+    "dependencies": [
+      "@radix-ui/react-tooltip"
+    ],
+    "tags": [
+      "tooltip",
+      "arrow",
+      "animation",
+      "positioning"
+    ],
+    "video_url": "/video/v1/skiper102.mp4"
+  },
+  {
+    "id": "skiper103",
+    "name": "Bouncy accordion",
+    "desc": "An accordion component with glassmorphism-styled icons and spring transitions, smooth expand/collapse animations, and gap between accordion items",
+    "tier": "paid",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "tags": [
+      "accordion",
+      "glass",
+      "icons",
+      "animation",
+      "blur"
+    ],
+    "video_url": "/video/v1/skiper103.mp4"
+  },
+  {
+    "id": "skiper104",
+    "name": "Scroll reveal grid cards",
+    "desc": "A grid of cards that reveal content as you scroll, with smooth transitions and interactive elements, perfect for showcasing your projects or products on the landing page.",
+    "tier": "paid",
+    "collection_name": "Scroll Effects",
+    "theme": "light",
+    "dependencies": [
+      "framer-motion"
+    ],
+    "registryDependencies": [
+      "scroll-area"
+    ],
+    "tags": [
+      "notifications",
+      "swipe",
+      "actions",
+      "panel",
+      "interactive"
+    ],
+    "video_url": "/video/v1/skiper104.mp4"
+  },
+  {
+    "id": "skiper105",
+    "name": "Auto Scale input",
+    "desc": "An auto-scaling input for big number entry. Uses the responsive font approach seen in Uniswap and Wise so large amounts stay readable in crypto and finance apps.",
+    "tier": "paid",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "dialkit"
+    ],
+    "tags": [
+      "input",
+      "number",
+      "formatting",
+      "auto-fit",
+      "dollar",
+      "dialkit"
+    ],
+    "video_url": "/video/v1/skiper105.mp4",
+    "label": "new"
+  },
+  {
+    "id": "skiper106",
+    "name": "Smooth caret input",
+    "desc": "A text input with a custom animated caret that smoothly tracks cursor position using canvas text measurement and spring physics.",
+    "tier": "free",
+    "collection_name": "Minimal interactions",
+    "theme": "dark",
+    "dependencies": [
+      "dialkit",
+      "framer-motion"
+    ],
+    "tags": [
+      "input",
+      "caret",
+      "animation",
+      "spring",
+      "focus",
+      "dialkit"
+    ],
+    "video_url": "/video/v1/skiper106.mp4",
+    "label": "new"
+  },
+  {
+    "id": "skiper107",
+    "name": "Knockout bracket",
+    "desc": "A Google-style tournament knockout bracket that pages one round at a time. The leftmost round stacks compactly while later rounds center between their feeder matches, with cards, elbow connectors and headers animating to every new layout.",
+    "tier": "paid",
+    "collection_name": "Out of the box",
+    "theme": "dark",
+    "dependencies": [
+      "framer-motion",
+      "lucide-react"
+    ],
+    "tags": [
+      "bracket",
+      "tournament",
+      "knockout",
+      "world cup",
+      "sports",
+      "animation",
+      "paging"
+    ],
+    "video_url": "/video/v1/skiper107.mp4",
+    "label": "new"
+  }
+]
